@@ -1,4 +1,4 @@
-# Hacktoberfest2020---its a very good project and get a free tshirt.
+# Hacktoberfest2021---its a very good project and get a free tshirt.
 
 Make your first Pull Request and earn a free tee from GitHub!
 
@@ -11,7 +11,7 @@ Make your first Pull Request and earn a free tee from GitHub!
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/OpenSouceCode/Hacktoberfest2020"></a>
    <img alt="Github license" src="https://img.shields.io/github/license/OpenSouceCode/Hacktoberfest2020"></a>
 </p>
-# Welcome to GitHub!
+# Welcome to GltHub!
 
 ## This project is perfect for your first pull request
 
@@ -30,7 +30,7 @@ Make your first Pull Request and earn a free tee from GitHub!
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
-## 1. Add your profile picture to the folder
+## 1. Add a random profile picture to the folder
 
 Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
@@ -40,7 +40,7 @@ static/images/<YOUR-USERNAME>.png
 
 _Be aware, this picture will be displayed on the yearbook!_
 
-## 2. Add your profile information
+## 2. Add fake profile information
 
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
@@ -61,4 +61,4 @@ _Do not use special characters in the template above._
 
 ## 4. Wait for Pull Request to merge
 
-## 5. Celebrate - you've done your first pull request!!
+## 5. Celerbate - you've done did your first pull request!!
